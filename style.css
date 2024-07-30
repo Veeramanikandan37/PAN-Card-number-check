@@ -1,0 +1,10 @@
+.pan{
+    background-color:rgb(236, 236, 189);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+#sub{
+    background-color: red;
+    color: white;
+}
